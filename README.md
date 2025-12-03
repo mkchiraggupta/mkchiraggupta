@@ -1,6 +1,6 @@
 ## 📌About Me:
 
-Frontend Developer @Polestar Analytics | Ex – Clearwater Analytics (CWAN) | React, Next, JavaScript, TypeScript | Creating Scalable & Collaborative Web Experiences | Agile-Driven Development
+Software Developer @[Polestar Analytics](https://www.polestarllp.com/) | Ex – Clearwater Analytics ([CWAN](https://cwan.com/)) | React, Next, JavaScript, TypeScript | Creating Scalable & Collaborative Web Experiences | Agile-Driven Development
 
 **👯 I’m looking to collaborate on:**  
 Frontend and full-stack projects involving React, TypeScript, Next and Node.js.
