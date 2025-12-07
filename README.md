@@ -67,14 +67,6 @@ I love collaborating with people and sharing my learnings to help others grow.
 [![TestDome TypeScript](https://img.shields.io/badge/TestDome-TypeScript-blueviolet)](https://www.testdome.com/certificates/4c9fb61e8f384b95ba45812a7c4e1836)
 [![Simplilearn JS](https://img.shields.io/badge/Simplilearn-JavaScript-orange)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzI0IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvNzcxNzUyNV83ODQ3MzcwMTczNTM4MjA0NzAxMi5wbmciLCJ1c2VybmFtZSI6IkNoaXJhZyBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4212%2FJavaScript-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1491670040365035840&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVLyoIrAhNSjd2D0iyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAA9AqVVBAAAA)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mkchiraggupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mkchiraggupta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkchiraggupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mkchiraggupta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
