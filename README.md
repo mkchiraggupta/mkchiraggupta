@@ -9,7 +9,7 @@ Frontend and full-stack projects involving React, TypeScript, Next and Node.js.
 Advanced React patterns, System Design, and improving large-scale UI performance.
 
 **💬 Ask me about:**  
-JavaScript, React, Next.js, TypeScript, Redux, UI Engineering, and general frontend development topics.
+Web development related stuff - JavaScript, React, Next.js, TypeScript, Redux, UI Engineering, and general frontend development topics.
 
 **⚡ Fun fact:**  
 I love collaborating with people and sharing my learnings to help others grow.
